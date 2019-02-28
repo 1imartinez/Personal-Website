@@ -34,7 +34,7 @@ article{
 }
 img{
     width: 200px;
-    height: 200px;
+    height: 120px;
     margin: 0px;
 }
 .box{
@@ -83,6 +83,9 @@ p{
   
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
+}
+.bigger{
+   margin: 0px auto;
 }
 /* UTILITY CLASSES*/
 
